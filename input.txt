@@ -1,0 +1,11 @@
+John's email is john@gmail.com
+
+For support contact support@company.com
+
+Manager: manager123@yahoo.com
+
+Admin Email: admin@test.org
+
+Random text here...
+
+Student Email: student2026@college.edu

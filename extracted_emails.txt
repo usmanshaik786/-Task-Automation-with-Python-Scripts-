@@ -1,0 +1,5 @@
+john@gmail.com
+manager123@yahoo.com
+student2026@college.edu
+admin@test.org
+support@company.com
